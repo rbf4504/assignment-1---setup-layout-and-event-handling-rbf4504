@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wilmington Walkabout</string>
+    <string name="wilmington_sites">Explore Wilmington!</string>
+    <string name="info">Learn More!</string>
+    <string-array name="historic_sites">
+        <item>Battleship North Carolina</item>
+        <item>Cape Fear Museum of History and Science</item>
+        <item>Carolina Beach State Park</item>
+    </string-array>
+</resources>
